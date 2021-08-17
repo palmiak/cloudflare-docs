@@ -259,7 +259,7 @@ $ wrangler tail [--format $FORMAT] [--status $STATUS] [OPTIONS]
 - `--search $SEARCH`
   - Filter by a text match in console.log messages
 - `--status $STATUS`
-  Filter by invocation status [possible values: ok, error, canceled]
+  - Filter by invocation status [possible values: ok, error, canceled]
 
 </Definitions>
 
